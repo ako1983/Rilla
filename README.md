@@ -16,15 +16,15 @@ To get started, first install the required packages:
 pip install -r requirements.txt
 ```
 
-Usage
+## Usage
 Run the main script to start interacting with Rilla:
 
 ```bash
 python Rilla.py
 ```
 
-Contributing
+## Contributing
 Feel free to fork this repository and contribute. Pull requests are welcome!
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.

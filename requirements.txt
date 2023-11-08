@@ -7,7 +7,7 @@ Flask==2.0.2
 idna==3.3
 itsdangerous==2.0.1
 Jinja2==3.0.2
-langchain==0.0.310
+langchain>=0.0.325
 langsmith==0.0.43
 MarkupSafe==2.0.1
 numpy==1.21.3
@@ -23,5 +23,5 @@ requests==2.26.0
 six==1.16.0
 toml==0.10.2
 tqdm==4.62.3
-urllib3==1.26.7
-Werkzeug==2.0.2
+urllib3>=1.26.18
+werkzeug>=3.0.1
